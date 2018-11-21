@@ -14,4 +14,5 @@ document.write(test.italics().fontsize(6).fontcolor("green")+"<P>")
 document.open()
 
 //test
+//test123
 </SCRIPT>
