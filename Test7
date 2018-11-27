@@ -1,0 +1,11 @@
+<script>
+function showBankBalance() {
+  try {
+    alert("My bank balance is $" + myBankBalance);
+  }
+  catch(err) {
+    alert("Sorry, an error has occurred. We will fix the problem as soon as we get a pay rise!");
+  }
+}
+</script>
+<input type="button" onclick="showBankBalance();" value="Show My Bank Balance!" />
