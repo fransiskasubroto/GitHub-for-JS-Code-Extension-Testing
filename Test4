@@ -15,3 +15,5 @@ p.dancing; // => true
  
 var n = new Ninja();
 n.dancing; // => false
+
+//test
