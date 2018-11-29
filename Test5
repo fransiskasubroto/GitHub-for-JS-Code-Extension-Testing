@@ -30,3 +30,5 @@ n.swingSword(); // => true
 // Should all be true
 p instanceof Person && p instanceof Class &&
 n instanceof Ninja && n instanceof Person && n instanceof Class
+
+//test
